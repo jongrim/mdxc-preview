@@ -1,0 +1,19 @@
+.btn-primary {
+  background-color: #eee;
+  border: none;
+  color: #333;
+  cursor: pointer;
+  border-radius: .3rem;
+  display: inline-block;
+  font-size: 1.2rem;
+  font-weight: 600;
+  height: 3.8rem;
+  line-height: 3.8rem;
+  margin-bottom: 1rem;
+  outline: none;
+  padding: 0 2rem;
+  text-align: center;
+  text-decoration: none;
+  transition: color .2s ease-out, background-color .2s ease-out;
+  white-space: nowrap;
+}

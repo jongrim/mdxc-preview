@@ -16,4 +16,8 @@
   text-decoration: none;
   transition: color .2s ease-out, background-color .2s ease-out;
   white-space: nowrap;
+
+  &:hover {
+    background-color: blue;
+  }
 }

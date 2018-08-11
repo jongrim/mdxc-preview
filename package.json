@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@reach/router": "^1.1.1",
     "babel-loader": "^7.1.5",
     "mdx-breadboard": "^1.1.0",
     "mdx-loader": "^1.1.1",

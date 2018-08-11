@@ -1,0 +1,21 @@
+.navbar {
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 20rem;
+  padding: 1.5rem;
+
+  .logo {
+    height: 150px;
+    background-color: grey;
+    margin-bottom: 1.5rem;
+  }
+
+  .links {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  a {
+    padding: 0 0 1rem 1rem;
+  }
+}
